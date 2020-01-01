@@ -18,6 +18,7 @@ Visual Basic(vbnc 0.0.0.5943, mono 6.6.0.161):  0.88
 F#(fsharpc 10.2.3, mono 6.6.0.161):             0.88
 Cython(3.8.0, 0.29.14):                         1.72
 JavaScript(Nodejs 10.15.2):                     1.73
+Scala(2.12.6):                                  2.03
 Common Lisp(sbcl 1.4.16):                       2.06
 PyPy(3.6, 7.2.0):                               2.24
 Elixir(1.10.0-dev):                             3.56
