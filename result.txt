@@ -16,6 +16,7 @@ C#(csc 3.4.0, mono 6.6.0.161):                  0.75
 Haskell(GHC 8.6.5):                             0.83
 Visual Basic(vbnc 0.0.0.5943, mono 6.6.0.161):  0.88
 F#(fsharpc 10.2.3, mono 6.6.0.161):             0.88
+Ada(GNAT 8.3.0, gcc 8.3.0):                     0.96
 Dart(2.7.0):                                    1.13
 Cython(3.8.0, 0.29.14):                         1.72
 JavaScript(Nodejs 10.15.2):                     1.73
