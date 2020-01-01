@@ -12,7 +12,10 @@ Java(OpenJDK 11.0.5):                           0.46
 Go(1.13.5):                                     0.65
 Julia(1.0.3):                                   0.65
 D(DMD64, 2.089.1):                              0.66
+C#(csc 3.4.0, mono 6.6.0.161):                  0.75
 Haskell(GHC 8.6.5):                             0.83
+Visual Basic(vbnc 0.0.0.5943, mono 6.6.0.161):  0.88
+F#(fsharpc 10.2.3, mono 6.6.0.161):             0.88
 Cython(3.8.0, 0.29.14):                         1.72
 JavaScript(Nodejs 10.15.2):                     1.73
 Common Lisp(sbcl 1.4.16):                       2.06
