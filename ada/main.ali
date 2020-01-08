@@ -1,5 +1,6 @@
 V "GNAT Lib v8"
 M P W=b
+A -O3
 A -mtune=generic
 A -march=x86-64
 P ZX
