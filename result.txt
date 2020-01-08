@@ -1,11 +1,12 @@
 Assembly(nasm 2.14, gcc 8.3.0):                 0.00
+Go(Gccgo 8.3.0):                                0.03
 Rust(rustc 1.39.0):                             0.25
-C(gcc 8.3.0, O3):                               0.26
+C(gcc 8.3.0, O3):                               0.25
+V(0.1.23):                                      0.25
+Haskell/C(GHC 8.6.5, gcc 8.3.0):                0.25
 C++(g++ 8.3.0, O3):                             0.26
-Haskell/C(GHC 8.6.5, gcc 8.3.0):                0.26
-V(0.1.23):                                      0.26
+Nim(0.19.4, release, opt:speed):                0.28
 Python/C(CPython 3.8.0, gcc 8.3.0, O3):         0.30
-Nim(0.19.4, release, opt:speed):                0.31
 Python/ctypes(CPython 3.8.0, gcc 8.3.0, O3):    0.36
 Ada(GNAT 8.3.0, gcc 8.3.0):                     0.43
 Fortran(gfortran 8.3.0):                        0.45
