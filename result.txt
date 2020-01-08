@@ -1,33 +1,33 @@
-Assembly(nasm 2.14, gcc 8.3.0):                 0.00
-Go(Gccgo 8.3.0):                                0.01
-Rust(rustc 1.39.0):                             0.25
-C(gcc 8.3.0, O3):                               0.25
-V(0.1.23):                                      0.25
-Haskell/C(GHC 8.6.5, gcc 8.3.0):                0.25
-C++(g++ 8.3.0, O3):                             0.26
-Nim(0.19.4, release, opt:speed):                0.28
-Python/C(CPython 3.8.0, gcc 8.3.0, O3):         0.30
-Python/ctypes(CPython 3.8.0, gcc 8.3.0, O3):    0.36
-Ada(GNAT 8.3.0, gcc 8.3.0):                     0.43
-Fortran(gfortran 8.3.0):                        0.45
-Java(OpenJDK 11.0.5):                           0.46
-Go(1.13.5):                                     0.65
-Julia(1.0.3):                                   0.65
-D(DMD64, 2.089.1):                              0.66
-C#(csc 3.4.0, mono 6.6.0.161):                  0.75
-Haskell(GHC 8.6.5):                             0.83
-Visual Basic(vbnc 0.0.0.5943, mono 6.6.0.161):  0.88
-F#(fsharpc 10.2.3, mono 6.6.0.161):             0.88
-Dart(2.7.0):                                    1.13
-Cython(3.8.0, 0.29.14):                         1.72
-JavaScript(Nodejs 10.15.2):                     1.73
-Scala(2.12.6):                                  2.03
-Common Lisp(sbcl 1.4.16):                       2.06
-PyPy(3.6, 7.2.0):                               2.24
-Elixir(1.10.0-dev):                             3.56
-Erlang(10.2.4):                                 3.60
-PHP(3.3.1):                                     8.89
-Scheme(Gauche 0.9.6):                           9.76
-Ruby(2.5.5p157):                                12.97
-Common Lisp(clisp 2.49.92):                     27.65
-CPython(3.8.0):                                 35.23
+Assembly(nasm 2.14, gcc 8.3.0):                 0.002
+Go(Gccgo 8.3.0):                                0.010
+Rust(rustc 1.39.0):                             0.254
+C++(g++ 8.3.0, O3):                             0.257
+C(gcc 8.3.0, O3):                               0.262
+V(0.1.23):                                      0.262
+Haskell/C(GHC 8.6.5, gcc 8.3.0):                0.264
+Nim(0.19.4, release, opt:speed):                0.292
+Python/ctypes(CPython 3.8.0, gcc 8.3.0, O3):    0.339
+Python/C(CPython 3.8.0, gcc 8.3.0, O3):         0.340
+Ada(GNAT 8.3.0, gcc 8.3.0):                     0.435
+Java(OpenJDK 11.0.5):                           0.455
+Fortran(gfortran 8.3.0):                        0.469
+Julia(1.0.3):                                   0.652
+Go(1.13.5):                                     0.654
+D(DMD64, 2.089.1):                              0.665
+C#(csc 3.4.0, mono 6.6.0.161):                  0.746
+Haskell(GHC 8.6.5):                             0.841
+Visual Basic(vbnc 0.0.0.5943, mono 6.6.0.161):  0.842
+F#(fsharpc 10.2.3, mono 6.6.0.161):             0.889
+Dart(2.7.0):                                    1.028
+Scala(2.12.6):                                  1.335
+JavaScript(Nodejs 10.15.2):                     1.707
+Cython(3.8.0, 0.29.14):                         1.723
+Common Lisp(sbcl 1.4.16):                       2.086
+PyPy(3.6, 7.2.0):                               2.239
+Elixir(1.10.0-dev):                             3.543
+Erlang(10.2.4):                                 3.570
+PHP(3.3.1):                                     8.584
+Scheme(Gauche 0.9.6):                           9.852
+Ruby(2.5.5p157):                                12.171
+Common Lisp(clisp 2.49.92):                     27.959
+CPython(3.8.0):                                 30.040
