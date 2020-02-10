@@ -18,7 +18,7 @@ C#(csc 3.4.0, mono 6.6.0.161):                  0.746
 Haskell(GHC 8.6.5):                             0.841
 Visual Basic(vbnc 0.0.0.5943, mono 6.6.0.161):  0.842
 F#(fsharpc 10.2.3, mono 6.6.0.161):             0.889
-Dart(2.7.0):                                    1.028
+Dart(2.7.0, dart2native):                       0.961
 Scala(2.12.6):                                  1.335
 JavaScript(Nodejs 10.15.2):                     1.707
 Cython(3.8.0, 0.29.14):                         1.723
