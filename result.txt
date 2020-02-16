@@ -2,10 +2,12 @@ Assembly(nasm 2.14, gcc 8.3.0):                 0.002
 Go(Gccgo 8.3.0):                                0.010
 Rust(rustc 1.39.0):                             0.254
 C++(g++ 8.3.0, O3):                             0.257
-C(gcc 8.3.0, O3):                               0.262
+C++(clang++ 7.0.1-8):                           0.260
+C(gcc 8.3.0, O3):                               0.261
 V(0.1.23):                                      0.262
 Haskell/C(GHC 8.6.5, gcc 8.3.0):                0.264
 Nim(0.19.4, release, opt:speed):                0.292
+C(clang 7.0.1-8, O3):                           0.293
 Python/ctypes(CPython 3.8.0, gcc 8.3.0, O3):    0.339
 Python/C(CPython 3.8.0, gcc 8.3.0, O3):         0.340
 Ada(GNAT 8.3.0, gcc 8.3.0):                     0.435
@@ -15,7 +17,7 @@ Julia(1.0.3):                                   0.652
 Go(1.13.5):                                     0.654
 D(DMD64, 2.089.1):                              0.665
 C#(csc 3.4.0, mono 6.6.0.161):                  0.746
-Haskell(GHC 8.6.5):                             0.841
+Haskell(GHC 8.6.5):                             0.772
 Visual Basic(vbnc 0.0.0.5943, mono 6.6.0.161):  0.842
 F#(fsharpc 10.2.3, mono 6.6.0.161):             0.889
 Dart(2.7.0, dart2native):                       0.961
