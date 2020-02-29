@@ -35,4 +35,5 @@ PHP(3.3.1):                                     8.584
 Scheme(Gauche 0.9.6):                           9.852
 Ruby(2.5.5p157):                                12.171
 Common Lisp(clisp 2.49.92):                     27.959
+CPython(3.9.0):                                 29.455
 CPython(3.8.0):                                 30.040
