@@ -8,8 +8,9 @@ V(0.1.23):                                      0.262
 Haskell/C(GHC 8.6.5, gcc 8.3.0):                0.264
 Nim(0.19.4, release, opt:speed):                0.292
 C(clang 7.0.1-8, O3):                           0.293
+Python/ctypes(CPython 3.9.0a3, gcc 8.3.0, O3):  0.332
+Python/C(CPython 3.9.0a3, gcc8.3.0, O3):        0.334
 Python/ctypes(CPython 3.8.0, gcc 8.3.0, O3):    0.339
-Python/C(CPython 3.9.0a3, gcc8.3.0, O3):        0.350
 Python/C(CPython 3.8.0, gcc 8.3.0, O3):         0.340
 Ada(GNAT 8.3.0, gcc 8.3.0):                     0.435
 Java(OpenJDK 11.0.5):                           0.455
