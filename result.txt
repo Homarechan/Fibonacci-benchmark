@@ -9,6 +9,7 @@ Haskell/C(GHC 8.6.5, gcc 8.3.0):                0.264
 Nim(0.19.4, release, opt:speed):                0.292
 C(clang 7.0.1-8, O3):                           0.293
 Python/ctypes(CPython 3.8.0, gcc 8.3.0, O3):    0.339
+Python/C(CPython 3.9.0a3, gcc8.3.0, O3):        0.350
 Python/C(CPython 3.8.0, gcc 8.3.0, O3):         0.340
 Ada(GNAT 8.3.0, gcc 8.3.0):                     0.435
 Java(OpenJDK 11.0.5):                           0.455
@@ -22,6 +23,7 @@ Visual Basic(vbnc 0.0.0.5943, mono 6.6.0.161):  0.842
 F#(fsharpc 10.2.3, mono 6.6.0.161):             0.889
 Dart(2.7.0, dart2native):                       0.961
 Scala(2.12.6):                                  1.335
+Cython(3.9.0a3, 0.29.15):                       1.480
 JavaScript(Nodejs 10.15.2):                     1.707
 Cython(3.8.0, 0.29.14):                         1.723
 Common Lisp(sbcl 1.4.16):                       2.086
