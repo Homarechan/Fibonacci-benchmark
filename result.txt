@@ -28,8 +28,8 @@ Go(1.13.5):                                     0.654
 D(DMD64, 2.089.1):                              0.665
 RPython(Python2.7.9, gcc 8.3.0):                0.692
 C#(csc 3.4.0, mono 6.6.0.161):                  0.746
+Python/Numba(CPython3.9.0, Numba0.48):          0.764
 Haskell(GHC 8.6.5):                             0.772
-Python/Numba(CPython3.9.0, Numba0.48):          0.779
 Visual Basic(vbnc 0.0.0.5943, mono 6.6.0.161):  0.842
 F#(fsharpc 10.2.3, mono 6.6.0.161):             0.889
 Dart(2.7.0, dart2native):                       0.961
