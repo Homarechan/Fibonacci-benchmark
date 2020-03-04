@@ -1,5 +1,12 @@
+Assembly(nasm 2.14, gcc 10.0.1):                0.000
 Assembly(nasm 2.14, gcc 8.3.0):                 0.002
+Go(Gccgo 10.0.1):                               0.010
 Go(Gccgo 8.3.0):                                0.010
+C(gcc 10.0.1, O3):                              0.197
+V(0.1.23, gcc 10.0.1):                          0.209
+Fortran(gfortran 10.0.1, O3):                   0.215
+Python/C(CPython 3.9.0, gcc 10.0.1):            0.222
+Python/ctypes(CPython 3.9.0a3, gcc 10.0.1, O3): 0.230
 Rust(rustc 1.39.0):                             0.254
 C++(g++ 8.3.0, O3):                             0.257
 C++(clang++ 7.0.1-8):                           0.260
@@ -12,7 +19,8 @@ Python/ctypes(CPython 3.9.0a3, gcc 8.3.0, O3):  0.332
 Python/C(CPython 3.9.0a3, gcc8.3.0, O3):        0.334
 Python/ctypes(CPython 3.8.0, gcc 8.3.0, O3):    0.339
 Python/C(CPython 3.8.0, gcc 8.3.0, O3):         0.340
-Ada(GNAT 8.3.0, gcc 8.3.0):                     0.435
+Ada(GNAT 9.2.1):                                0.411
+Ada(GNAT 8.3.0):                                0.435
 Java(OpenJDK 11.0.5):                           0.455
 Fortran(gfortran 8.3.0):                        0.469
 Julia(1.0.3):                                   0.652
