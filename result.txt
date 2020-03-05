@@ -3,7 +3,7 @@ Assembly(nasm 2.14, gcc 8.3.0):                 0.002
 Go(Gccgo 10.0.1):                               0.010
 Go(Gccgo 8.3.0):                                0.010
 C(gcc 10.0.1, O3):                              0.197
-V(0.1.23, gcc 10.0.1):                          0.209
+V(0.1.23, gcc 10.0.1):                          0.201
 Fortran(gfortran 10.0.1, O3):                   0.215
 Python/C(CPython 3.9.0, gcc 10.0.1):            0.222
 Python/ctypes(CPython 3.9.0a3, gcc 10.0.1, O3): 0.230
@@ -33,16 +33,19 @@ Haskell(GHC 8.6.5):                             0.772
 Visual Basic(vbnc 0.0.0.5943, mono 6.6.0.161):  0.842
 F#(fsharpc 10.2.3, mono 6.6.0.161):             0.889
 Dart(2.7.0, dart2native):                       0.961
+JavaScript(Nodejs 13.7.0):                      1.189
 Scala(2.12.6):                                  1.335
 Cython(3.9.0a3, 0.29.15):                       1.480
 JavaScript(Nodejs 10.15.2):                     1.707
 Cython(3.8.0, 0.29.14):                         1.723
+Common Lisp(sbcl 2.0.1):                        1.889
 Common Lisp(sbcl 1.4.16):                       2.086
 PyPy(3.6, 7.2.0):                               2.239
-Elixir(1.10.0-dev):                             3.543
-Erlang(10.2.4):                                 3.570
+Erlang(10.6.4):                                 3.162
+Elixir(1.10.0-dev):                             3.180
 PHP(3.3.1):                                     8.584
 Scheme(Gauche 0.9.6):                           9.852
+Ruby(2.5.7p206):                                10.931
 Ruby(2.5.5p157):                                12.171
 Common Lisp(clisp 2.49.92):                     27.959
 CPython(3.9.0):                                 29.455
